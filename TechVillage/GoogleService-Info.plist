@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>122335765975-db0ercifjs709n466k21cv4n5nah9cmn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.122335765975-db0ercifjs709n466k21cv4n5nah9cmn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1EE1cnWmXgXHovcYmR5LTU_V6lPRBc_s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>122335765975</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AhmedAfifi.TechVillage</string>
+	<key>PROJECT_ID</key>
+	<string>tech-village-b6164</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tech-village-b6164.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:122335765975:ios:d44df07d95cdc89e</string>
+	<key>DATABASE_URL</key>
+	<string>https://tech-village-b6164.firebaseio.com</string>
+</dict>
+</plist>
